@@ -107,3 +107,7 @@ i {
 #p3 {
     z-index: 1;
 }
+
+.img-fluid,img {
+    max-width: 100%;
+}
