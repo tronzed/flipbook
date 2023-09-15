@@ -3355,7 +3355,7 @@ $(window).ready(function() {
 	  $('.pages').turn({
       duration: 1500,
       width: 760,
-      height: 540,
+      height: 600,
 	  // acceleration: true,
     // display: 'single',
     // autoCenter: true,
